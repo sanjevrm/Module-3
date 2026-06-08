@@ -1,5 +1,6 @@
 # Tuple in Python: Check Element Existence
-
+## Name: SANJEV R M
+## Reg No: 212223040186
 ## 🎯 Aim
 To write a Python program that checks if the element `'n'` and the element `8` exist within a given tuple.
 
@@ -10,8 +11,13 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
+~~~
+print("n" in tuplex)
+print("8" in tuplex)
+~~~
 
 ## Output
+![image](https://github.com/user-attachments/assets/0804f8ca-7341-48b8-95be-06af10d79c96)
 
 ## Result
+Thus the python program is executed successfully
